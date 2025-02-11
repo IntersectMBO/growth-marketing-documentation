@@ -1,7 +1,7 @@
 # Growth & Marketing Committee Documentation
 
 This repository stores the documentation for Growth & Marketing committee.
-This documentation is hosted (for reading) at [intersect.gitbook.io/growth-marketing-committee](https://intersect.gitbook.io/growth-marketing-committee).
+This documentation is hosted (for reading) at [[committees.docs.intersectmbo.org/intersect-growth-marketing-committee](https://intersect.gitbook.io/growth-marketing-committee)].
 
 ## 🤝 Contributing
 
