@@ -15,3 +15,4 @@
 | John G.    | Community          | <p><br></p>    | SME        |
 | Juan S.    | Community          | <p><br></p>    | SME        |
 | Jose I.    | ADA Solar          | <p><br></p>    | SME        |
+| JB         | Scrib3             |                | SME        |
