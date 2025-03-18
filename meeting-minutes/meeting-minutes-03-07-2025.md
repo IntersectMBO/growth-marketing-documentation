@@ -49,7 +49,26 @@ Other Guests:&#x20;
 
 ## Decisions/Actions
 
-* Decision: N/A Action: N/A
+* **Decision:** Events Budget
+  * Wes Parkinson, Laura, and Nate will work on revising the events budget to extend beyond the six-month timeframe and adjust funding accordingly.
+  * They will present their revised events budget on Wednesday.
+  * The events team will "stand up and say look you know as as events leads of the ecosystem this is what we need and pretty much go from there."
+* **Decision:** Budget Publication:
+  * The committee agreed to post the budget, with recommended spending amounts, on Wednesday of the following week.
+  * The committee will post the budget with the title of recommended amounts of spends on each item.
+* **Decision:** Budget Discussion and Strategy
+  * The committee will use the results of the budget poll to prioritize line items and identify areas for potential budget reduction.
+  * The committee will seek clarification on the role of the GMC under the new budget process.
+  * The committee will continue to discuss and refine their budget strategy in light of the new budget process announced by Intersect.
+  * The committee will look into getting accurate numbers for other L1's marketing budgets.
+* **Decision:** Vendor Proposals
+  * The committee will provide feedback and commentary on vendor proposals that align with their previous budget buckets.
+  * The committee will help ensure that DREPs have the necessary context to make informed decisions.
+  * The committee may propose funding of specific projects or program proposals.
+* **Decision:** Research
+  * AdaLink will share research on Coinbase and Polkadot marketing budgets in the Discord.
+  * Wes Parkinson will share information on Vchain's marketing expenditures in the Discord.
+  * JB will check the accuracy of the numbers on the slide that AdaLink shared.
 
 | Topic                                      | Discussion                                                                                                                                                                        | Action Items                                                                                                                                        |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
