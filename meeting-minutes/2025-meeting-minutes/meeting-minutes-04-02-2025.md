@@ -25,12 +25,6 @@ Other Guests:&#x20;
 
 * Thiago Nunes
 
-**Recording:** [Growth & Marketing Committee - Bootstrap - 2025/04/02 - Recording](https://drive.google.com/file/d/1K7ase7D2122LpZ-N1mBsXgr6q1IE41g_/view?usp=sharing)
-
-**Transcript:** [Growth & Marketing Committee - Bootstrap - 2025/04/02 - Transcript](https://docs.google.com/document/d/1rOCZkB0zm6SFI9FUGXtrraOW_m8oEcd8hyruQlgWdZY/edit?usp=sharing)
-
-**Chat Transcript**: [Growth & Marketing Committee - Bootstrap - 2025/04/02 - Chat](https://drive.google.com/file/d/1yzciChHwQtsQpWObP5oLJIBOD9ZGFpkf/view?usp=sharing)
-
 ## Intros/COI
 
 **Simon:** Simon 'Seomon' Fleck: Interim GMC Chair, Cardano After Dark co-founder, ODIN member\
