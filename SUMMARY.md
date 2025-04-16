@@ -20,3 +20,5 @@
   * [Meeting Minutes 03/26/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-03-26-2025.md)
   * [Meeting Minutes 04/02/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-04-02-2025.md)
   * [Meeting Minutes 04/04/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-04-04-2025.md)
+  * [Meeting Minutes 04/09/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-04-09-2025.md)
+  * [Meeting Minutes 04/16/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-04-16-2025.md)
