@@ -24,12 +24,6 @@ Other Guests:&#x20;
 
 * N/A
 
-**Recording:** [Growth & Marketing Committee - Budget - 2025/04/18 - Recording](https://drive.google.com/file/d/1fuaE1_ORH6mAo32-2D8KWpElFAKXoUfN/view?usp=sharing)
-
-**Transcript:** [Growth & Marketing Committee - Budget - 2025/04/18 - Transcript](https://docs.google.com/document/d/17sWg0iFcSux6evMJnDT-GSl4F_uF0Yhnrpxl3M0TY-Y/edit?usp=sharing)
-
-**Chat Transcript:** [Growth & Marketing Committee - Bootstrap - 2025/04/18 - Chat](https://drive.google.com/file/d/1zmesevu00Jhm9oqRpYp-QodkhxOSghKo/view?usp=sharing)
-
 ## Intros/COI
 
 **Simon:** Simon 'Seomon' Fleck: Interim GMC Chair, Cardano After Dark co-founder, ODIN member\
