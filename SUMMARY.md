@@ -30,7 +30,7 @@
   * [Meeting Minutes 05/21/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-05-21-2025.md)
   * [Meeting Minutes 05/28/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-05-28-2025.md)
   * [Meeting Minutes 06/04/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-06-04-2025.md)
-  * [Meeting Minutes 06/18/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-06-18-2025.md)
+  * [Meeting Minutes 06/10/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-06-10-2025.md)
   * [Meeting Minutes 07/02/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-07-02-2025.md)
   * [Meeting Minutes 07/16/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-07-16-2025.md)
   * [Meeting Minutes 07/30/2025](meeting-minutes/2025-meeting-minutes/meeting-minutes-07-30-2025.md)
