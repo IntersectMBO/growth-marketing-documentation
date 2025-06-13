@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Growth & Marketing Committee (GMC)](README.md)
-* [Bootstrap Committee Members](bootstrap-committee-members.md)
+* [Committee Members](committee-members.md)
 
 ## Meeting Minutes
 
