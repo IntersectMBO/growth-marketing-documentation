@@ -60,5 +60,5 @@
 
 ## Working Group
 
-* [Enterprise & Government Adoption WG](working-group/enterprise-and-government-adoption-wg/README.md)
-  * [WG Meeting Notes](working-group/enterprise-and-government-adoption-wg/wg-meeting-notes.md)
+* [Enterprise & Government Adoption WG](working-group/enterprise-and-government-adoption-wg.md)
+  * [Working Group Meeting Notes](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes.md)
