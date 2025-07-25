@@ -1,5 +1,9 @@
 # Enterprise & Government Adoption WG
 
+{% hint style="info" %}
+This page is written on behalf of the Enterprise & Government Adoption Working Group. The information contained is subject to change and amendment by the working group at any time.
+{% endhint %}
+
 ### Purpose
 
 The Enterprise & Government Adoption (EGA) Working Group was established, following approval from the Growth and Marketing Committee, to explore ways to grow the adoption of Cardano by established enterprise businesses and government organisations.
