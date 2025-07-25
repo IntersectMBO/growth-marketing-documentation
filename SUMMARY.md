@@ -57,3 +57,7 @@
   * [Meeting Minutes 01/21/2026](meeting-minutes/2025-meeting-minutes/meeting-minutes-01-21-2026.md)
   * [Meeting Minutes 02/04/2026](meeting-minutes/2025-meeting-minutes/meeting-minutes-02-04-2026.md)
   * [Meeting Minutes 02/18/2026](meeting-minutes/2025-meeting-minutes/meeting-minutes-02-18-2026.md)
+
+## Working Group
+
+* [Enterprise & Government Adoption WG](working-group/enterprise-and-government-adoption-wg.md)
