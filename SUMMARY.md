@@ -62,6 +62,8 @@
 
 * [Enterprise & Government Adoption WG](working-group/enterprise-and-government-adoption-wg.md)
   * [Working Group Meeting Notes](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes.md)
+    * [August 26, 2025](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes/august-26-2025.md)
+    * [August 12, 2025](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes/august-12-2025.md)
     * [July 29, 2025](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes/july-29-2025.md)
     * [July 15, 2025](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes/july-15-2025.md)
     * [June 17, 2025](working-group/enterprise-and-government-adoption-wg/working-group-meeting-notes/june-17-2025.md)
