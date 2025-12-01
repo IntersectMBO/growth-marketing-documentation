@@ -52,8 +52,7 @@ Tex: Open Source Program Manager (Intersect), OSC Secretary, Committee Liaison
 * **Tim Harrison IO, to follow up with Kyle:** Tim Harrison IO stated he would call Kyle, and this was accepted by the group, implying a decision to proceed with this action.
 * **Create a vendor shortlist:** There was a discussion about creating a vendor shortlist, suggesting an agreement to move forward with compiling such a list.
 * **Review the charter:** The discussion about the charter indicates an agreement to review and update it.
-* **Advocate for strategic roadmaps:** Laura Mattiucci's strong advocacy for strategic roadmaps suggests an implicit decision to pursue this approach.\
-
+* **Advocate for strategic roadmaps:** Laura Mattiucci's strong advocacy for strategic roadmaps suggests an implicit decision to pursue this approach.<br>
 
 | Topic                    | Discussion                                                                                | Action Items                                                      |
 | ------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |

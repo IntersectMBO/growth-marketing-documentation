@@ -21,8 +21,7 @@
 | Jose I.                  | No         | SME - ADA Solar             | N                 |
 | JB                       | Yes        | SME - SCRIB3                | N                 |
 
-\
-
+<br>
 
 Other Guests:&#x20;
 
