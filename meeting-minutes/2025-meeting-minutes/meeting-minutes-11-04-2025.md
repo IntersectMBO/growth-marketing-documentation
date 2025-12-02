@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Meeting Minutes 11/04/2025
 
 ## Attendees:&#x20;
