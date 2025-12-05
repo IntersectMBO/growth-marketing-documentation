@@ -1,24 +1,8 @@
----
-hidden: true
----
-
 # Meeting Minutes 12/02/2025
 
 ## Attendees:&#x20;
 
-| **Name**         | **Attendance** | **Role**  | **Voting Seat (Y/N)** | **Election Cycle** |
-| ---------------- | -------------- | --------- | --------------------- | ------------------ |
-| Tim Harrison     | Yes            | Chair     | Y                     | April 2026         |
-| Lara Bonasorte   | Yes            | Secretary | N                     | N/A                |
-| Andy Hung        | Yes            | Member    | Y                     | April 2026         |
-| Anuj Chaudhary   | No             | Member    | Y                     | April 2026         |
-| Hasitha Raymond  | Yes            | Member    | Y                     | April 2026         |
-| Laura Mattiucci  | Yes            | Member    | Y                     | April 2026         |
-| Maggie Schmidt   | No             | Member    | Y                     | October 206        |
-| Otavio Lima      | No             | Member    | Y                     | October 2026       |
-| Reshan Fernando  | Yes            | Member    | Y                     | October 2026       |
-| Wes Parkinson    | Yes            | Member    | Y                     | October 2026       |
-| Yoram Ben Zvi    | Yes            | Member    | Y                     | October 2026       |
+<table data-header-hidden><thead><tr><th>Name</th><th align="center">Attendance</th><th width="102.6805419921875">Role</th><th align="center">Voting Seat (Y/N)</th><th>Election Cycle</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td align="center"><strong>Attendance</strong></td><td><strong>Role</strong></td><td align="center"><strong>Voting Seat (Y/N)</strong></td><td><strong>Election Cycle</strong></td></tr><tr><td>Tim Harrison</td><td align="center">Yes</td><td>Chair</td><td align="center">Y</td><td>April 2026</td></tr><tr><td>Lara Bonasorte</td><td align="center">Yes</td><td>Secretary</td><td align="center">N</td><td>N/A</td></tr><tr><td>Andy Hung</td><td align="center">Yes</td><td>Member</td><td align="center">Y</td><td>April 2026</td></tr><tr><td>Anuj Chaudhary </td><td align="center">No</td><td>Member</td><td align="center">Y</td><td>April 2026</td></tr><tr><td>Hasitha Raymond</td><td align="center">Yes</td><td>Member</td><td align="center">Y</td><td>April 2026</td></tr><tr><td>Laura Mattiucci </td><td align="center">Yes</td><td>Member</td><td align="center">Y</td><td>April 2026</td></tr><tr><td>Maggie Schmidt</td><td align="center">No</td><td>Member</td><td align="center">Y</td><td>October 206</td></tr><tr><td>Otavio Lima</td><td align="center">No</td><td>Member</td><td align="center">Y</td><td>October 2026</td></tr><tr><td>Reshan Fernando</td><td align="center">Yes</td><td>Member </td><td align="center">Y</td><td>October 2026</td></tr><tr><td>Wes Parkinson</td><td align="center">Yes</td><td>Member </td><td align="center">Y</td><td>October 2026</td></tr><tr><td>Yoram Ben Zvi</td><td align="center">Yes</td><td>Member</td><td align="center">Y</td><td>October 2026</td></tr></tbody></table>
 
 Other Guests:&#x20;
 
@@ -30,11 +14,11 @@ Other Guests:&#x20;
 * Terence McCutcheon
 * Wilco van de Burgwal
 
-**Recording:** [Growth & Marketing Committee - 2025/12/02 05:59 CST - Recording](https://drive.google.com/file/d/1M1Q9jubnHXWOMJCCfXTaGGvlncCmSYrG/view?usp=sharing)
+**Recording:** [Growth & Marketing Committee - 2025/12/02 - Recording](https://drive.google.com/file/d/1M1Q9jubnHXWOMJCCfXTaGGvlncCmSYrG/view?usp=sharing)
 
-**Transcript:** [Growth & Marketing Committee - 2025/12/02 05:59 CST - Transcript](https://docs.google.com/document/d/1OxR6o2U-Fj6LkNwewDDTQdvI8Hex2gpekj9utkIc3V4/edit?usp=sharing)
+**Transcript:** [Growth & Marketing Committee - 2025/12/02 - Transcript](https://docs.google.com/document/d/1OxR6o2U-Fj6LkNwewDDTQdvI8Hex2gpekj9utkIc3V4/edit?usp=sharing)
 
-**Chat Transcript:** [Growth & Marketing Committee - 2025/12/02 05:59 CST - Chat](https://docs.google.com/document/d/1GH2833SXfzKqybyG5OyxuDUJbaoTjhfxkEzsEl0_Psw/edit?usp=sharing)
+**Chat Transcript:** [Growth & Marketing Committee - 2025/12/02 - Chat](https://docs.google.com/document/d/1GH2833SXfzKqybyG5OyxuDUJbaoTjhfxkEzsEl0_Psw/edit?usp=sharing)
 
 ## Intros/COI
 
