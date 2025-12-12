@@ -26,7 +26,7 @@ Recording: [Enterprise & Government Adoption WG Fortnightly - 2025/09/23 02:55 C
 
 Transcript: [Enterprise & Government Adoption WG Fortnightly - 2025/09/23 02:55 CDT - Transcript](https://docs.google.com/document/d/1WR7LMs2v-1jdlUG8vGkFZigDkCpBcDW5_MZI7gIdHw4/edit?tab=t.0#heading=h.24dkvx9unynw)<br>
 
-Agenda 23.09.2025
+### Agenda 23.09.2025
 
 * Cardano.org website review
 * Ecosystem mapping tool
