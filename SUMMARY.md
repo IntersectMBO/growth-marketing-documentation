@@ -59,6 +59,7 @@
   * [Meeting Minutes 01/27/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-01-27-2026.md)
   * [Meeting Minutes 02/03/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-02-03-2026.md)
   * [Meeting Minutes 02/10/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-02-10-2026.md)
+  * [Meeting Minutes 02/17/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-02-17-2026.md)
 
 ## Working Group
 
