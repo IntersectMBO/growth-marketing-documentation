@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Meeting Minutes 02/10/2026
 
 ## Attendees:
