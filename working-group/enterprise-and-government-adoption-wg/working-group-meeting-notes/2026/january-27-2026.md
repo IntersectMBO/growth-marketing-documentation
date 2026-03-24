@@ -18,7 +18,6 @@
 | Samuel Wiedmer                                       | No         | <p><br></p>                                               |
 | Tomas Garro                                          | Yes        | <p><br></p>                                               |
 | Yoram Ben-Zvi                                        | Yes        | <p><br></p>                                               |
-| Alex Maaza                                           | Yes        | <p><br></p>                                               |
 | Jashar Seyf                                          | Yes        | <p><br></p>                                               |
 | Abhik Nag                                            | Yes        | <p><br></p>                                               |
 
