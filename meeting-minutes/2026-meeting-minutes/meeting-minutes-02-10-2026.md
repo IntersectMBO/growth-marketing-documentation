@@ -38,7 +38,7 @@ Tex: Open Source Program Manager(Intersect), OSC Secretary, Committee Liaison\
 Wes: Rare Network\
 Yoram: TBD
 
-## Agenda 2.10.25
+## Agenda 2.10.26
 
 * ServicePlan Presentation
 * ServicePlan Q\&A

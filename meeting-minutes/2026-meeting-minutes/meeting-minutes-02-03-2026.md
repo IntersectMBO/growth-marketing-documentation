@@ -49,7 +49,7 @@ Tex: Open Source Program Manager(Intersect), OSC Secretary, Committee Liaison\
 Wes: Rare Network\
 Yoram: TBD
 
-## Agenda 2.03.25
+## Agenda 2.03.26
 
 * &#x20;Open Forum
 
