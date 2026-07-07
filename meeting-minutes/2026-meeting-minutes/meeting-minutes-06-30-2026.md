@@ -7,9 +7,9 @@
 | Laura Mattiucci    | No         | Chair (interim) | Y                 | April 2028     |
 | Marco Moshi        | Yes        | Vice Chair      | Y                 | April 2028     |
 | Lara Bonasorte     | Yes        | Secretary       | N                 | N/A            |
-| Andy Hung          | No         | Member          | Y                 | Marco Moshi    |
-| Alexa C. aka Thyme | Yes        | Member          | Y                 | Marco Moshi    |
-| Josefine Birkigt   | Yes        | Member          | Y                 | Marco Moshi    |
+| Andy Hung          | No         | Member          | Y                 | April 2028     |
+| Alexa C. aka Thyme | Yes        | Member          | Y                 | April 2028     |
+| Josefine Birkigt   | Yes        | Member          | Y                 | April 2028     |
 | Maggie Schmidt     | No         | Member          | Y                 | April 2027     |
 | Otavio Lima        | Yes        | Member          | Y                 | April 2027     |
 | Reshan Fernando    | No         | Member          | Y                 | April 2027     |
