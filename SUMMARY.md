@@ -70,7 +70,7 @@
   * [Meeting Minutes 04/21/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-04-21-2026.md)
   * [Meeting Minutes 04/28/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-04-28-2026.md)
   * [Meeting Minutes 05/05/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-05-05-2026.md)
-  * [Page 1](meeting-minutes/2026-meeting-minutes/page-1.md)
+  * [Meeting Minutes 06/30/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-06-30-2026.md)
   * [Page 2](meeting-minutes/2026-meeting-minutes/page-2.md)
 
 ## Working Group
