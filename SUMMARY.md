@@ -80,7 +80,7 @@
   * [Meeting Minutes 07/07/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-07-07-2026.md)
   * [Meeting Minutes 07/14/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-07-14-2026.md)
   * [Meeting Minutes 07/21/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-07-21-2026.md)
-  * [Meeting Minutes 08/04/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-08-04-2026.md)
+  * [Meeting Minutes 08/06/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-08-06-2026.md)
   * [Meeting Minutes 08/11/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-08-11-2026.md)
   * [Meeting Minutes 08/18/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-08-18-2026.md)
   * [Meeting Minutes 08/25/2026](meeting-minutes/2026-meeting-minutes/meeting-minutes-08-25-2026.md)
