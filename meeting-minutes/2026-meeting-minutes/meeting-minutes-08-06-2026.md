@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Meeting Minutes 08/06/2026
 
 {% hint style="info" %}
